@@ -1,0 +1,20 @@
+.one {
+    color: indianred;
+}
+
+.two{
+    text-align: center;
+}
+
+body {
+    background-color: slategray;
+}
+
+a {
+    text-decoration: none;
+    color: #0499ff;
+}
+
+a:hover {
+    color: #6633ff;
+}
