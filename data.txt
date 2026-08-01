@@ -1,0 +1,52 @@
+/* data
+Name	Abbr	Cap	LRGST	Pop	Area	Land	Water	Reps	Ratification or admission
+Alabama	AL	Montgomery	Huntsville	5,024,279	135,767	131,171	4,597	7	14/12/1819
+Alaska	AK	Juneau	Anchorage	733,391	1,723,337	1,477,953	245,384	1	03/01/1959
+Arizona	AZ	Phoenix		7,151,502	295,234	294,207	1,026	9	14/02/1912
+Arkansas	AR	Little Rock		3,011,524	137,732	134,771	2,961	4	15/6/1836
+California	CA	Sacramento	Los Angeles	39,538,223	423,967	403,466	20,501	52	9/9/1850
+Colorado	CO	Denver		5,773,714	269,601	268,431	1,170	8	1/8/1876
+Connecticut	CT	Hartford	Bridgeport	3,605,944	14,357	12,542	1,816	5	9/1/1788
+Delaware	DE	Dover	Wilmington	989,948	6,446	5,047	1,399	1	7/12/1787
+Florida	FL	Tallahassee	Jacksonville	21,538,187	170,312	138,887	31,424	28	3/3/1845
+Georgia	GA	Atlanta		10,711,908	153,910	148,959	4,951	14	2/1/1788
+Hawaii	HI	Honolulu		1,455,271	28,313	16,635	11,678	2	21/08/1959
+Idaho	ID	Boise		1,839,106	216,443	214,045	2,398	2	3/7/1890
+Illinois	IL	Springfield	Chicago	12,812,508	149,995	143,793	6,202	17	3/12/1818
+Indiana	IN	Indianapolis		6,785,528	94,326	92,789	1,537	9	11/12/1816
+Iowa	IA	Des Moines		3,190,369	145,746	144,669	1,077	4	28/12/1846
+Kansas	KS	Topeka	Wichita	2,937,880	213,100	211,754	1,346	4	29/1/1861
+Kentucky[B]	KY	Frankfort	Louisville	4,505,836	104,656	102,269	2,387	6	1/6/1792
+Louisiana	LA	Baton Rouge	New Orleans	4,657,757	135,659	111,898	23,761	6	30/4/1812
+Maine	ME	Augusta	Portland	1,362,359	91,633	79,883	11,750	2	15/3/1820
+Maryland	MD	Annapolis	Baltimore	6,177,224	32,131	25,142	6,990	8	28/4/1788
+Massachusetts[B]	MA	Boston		7,029,917	27,336	20,202	7,134	9	6/2/1788
+Michigan	MI	Lansing	Detroit	10,077,331	250,487	146,435	104,052	13	26/1/1837
+Minnesota	MN	Saint Paul	Minneapolis	5,706,494	225,163	206,232	18,930	8	11/5/1858
+Mississippi	MS	Jackson		2,961,279	125,438	121,531	3,907	4	10/12/1817
+Missouri	MO	Jefferson City	Kansas City	6,154,913	180,540	178,040	2,501	8	10/8/1821
+Montana	MT	Helena	Billings	1,084,225	380,831	376,962	3,869	2	8/11/1889
+Nebraska	NE	Lincoln	Omaha	1,961,504	200,330	198,974	1,356	3	1/3/1867
+Nevada	NV	Carson City	Las Vegas	3,104,614	286,380	284,332	2,048	4	31/10/1864
+New Hampshire	NH	Concord	Manchester	1,377,529	24,214	23,187	1,027	2	21/6/1788
+New Jersey	NJ	Trenton	Newark	9,288,994	22,591	19,047	3,544	12	18/12/1787
+New Mexico	NM	Santa Fe	Albuquerque	2,117,522	314,917	314,161	757	3	06/01/1912
+New York	NY	Albany	New York City	20,201,249	141,297	122,057	19,240	26	26/7/1788
+North Carolina	NC	Raleigh	Charlotte	10,439,388	139,391	125,920	13,471	14	21/11/1789
+North Dakota	ND	Bismarck	Fargo	779,094	183,108	178,711	4,397	1	2/11/1889
+Ohio	OH	Columbus		11,799,448	116,098	105,829	10,269	15	1/3/1803
+Oklahoma	OK	Oklahoma City		3,959,353	181,037	177,660	3,377	5	16/11/1907
+Oregon	OR	Salem	Portland	4,237,256	254,799	248,608	6,191	6	14/2/1859
+Pennsylvania[B]	PA	Harrisburg	Philadelphia	13,002,700	119,280	115,883	3,397	17	12/12/1787
+Rhode Island	RI	Providence		1,097,379	4,001	2,678	1,324	2	29/5/1790
+South Carolina	SC	Columbia	Charleston	5,118,425	82,933	77,857	5,076	7	23/5/1788
+South Dakota	SD	Pierre	Sioux Falls	886,667	199,729	196,350	3,379	1	2/11/1889
+Tennessee	TN	Nashville		6,910,840	109,153	106,798	2,355	9	1/6/1796
+Texas	TX	Austin	Houston	29,145,505	695,662	676,587	19,075	38	29/12/1845
+Utah	UT	Salt Lake City		3,271,616	219,882	212,818	7,064	4	4/1/1896
+Vermont	VT	Montpelier	Burlington	643,077	24,906	23,871	1,035	1	4/3/1791
+Virginia[B]	VA	Richmond	Virginia Beach	8,631,393	110,787	102,279	8,508	11	25/6/1788
+Washington	WA	Olympia	Seattle	7,705,281	184,661	172,119	12,542	10	11/11/1889
+West Virginia	WV	Charleston		1,793,716	62,756	62,259	497	2	20/6/1863
+Wisconsin	WI	Madison	Milwaukee	5,893,718	169,635	140,268	29,367	8	29/5/1848
+Wyoming	WY	Cheyenne		576,851	253,335	251,470	1,864	1	10/7/1890
