@@ -4,15 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>State Capitols</title>
+    <title>State CapitAls</title>
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
  
     <?php
       $host = "localhost";
-      $user = "**************";
-      $password = "**************";
+      $user = "#################";
+      $password = "#################";
       $database = "statecapitols";
 
       $connect = new mysqli($host, $user, $password, $database);
@@ -31,7 +31,7 @@
       if ($result->num_rows > 0) {
         // Output data of each row
         while($row = $result->fetch_assoc()) {
-          echo "id: " . $row["id"]. " - State: " . $row["State"]. "- Abbr" . $row["Abbr"] . "- Capitol" . $row["Capitol"] . "- Largest" . $row["Largest"] . "- Population" . $row["Population"] . "<br>";
+          echo "" . $row["id"]. " - " . $row["State"]. " - " . $row["Abbr"] . " - " . $row["Capitol"] . " - " . $row["Largest"] . "<br>";
         }
       } else {
         echo "0 results";
@@ -40,5 +40,13 @@
       $connect->close();
     ?>
 
+<br>
+<h2>2do:</h2>
+<ol>
+  <li>Update database</li>
+  <li>button</li>
+  <li>sort by highest / lowerst population</li>
+  <li>let something suggest few further changes/updates for now</li>
+</ol>
   </body>
 </html>
