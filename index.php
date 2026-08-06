@@ -123,8 +123,8 @@
 <h2>2do:</h2>
 <ol>
   <li>Update database &#9989;</li>
-  <li>button</li>
-  <li>sort by highest / lowerst population</li>
+  <li>buttons &#9989;</li>
+  <li>sort by highest / lowerst population &#9989;</li>
   <li><small>let something suggest few further changes/updates for now</small></li>
 </ol>
   </body>
