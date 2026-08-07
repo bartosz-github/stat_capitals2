@@ -125,7 +125,8 @@
   <li>Update database &#9989;</li>
   <li>buttons &#9989;</li>
   <li>sort by highest / lowerst population &#9989;</li>
-  <li><small>let something suggest few further changes/updates for now</small></li>
+  <!-- <li><small>let something suggest few further changes/updates for now</small></li> -->
+  <li><small>https://css-tricks.com/svg-map-rollovers/</small></li>  
 </ol>
   </body>
 </html>
